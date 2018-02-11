@@ -1,13 +1,13 @@
 # CryptoFy
-A virtual reality platform for cryptocurrency brokers and traders
+A virtual reality platform for cryptocurrency brokers and traders <br>
 
-#Team
+#Team <br>
 Dylan Rosario
 Armen Juhl
 Jonathan Mitchell
 Josh Goldwasser
 
-#Project
+#Project <br>
 CryptoFy is a virtual reality platform for brokers and traders of cryptocurrency and stocks. The VR Interface allows traders 
 to have a dynamic multi-screen experience from anywhere in the world.
 The VR experience gives users a panorama of different screens showing client profiles, predictions from machine learning 
