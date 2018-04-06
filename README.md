@@ -3,10 +3,10 @@ A virtual reality platform for cryptocurrency brokers and traders <br>
 **2018 DeveloperWeek Hackathon 1st place prize winning app<br>
 
 #Team <br>
-Dylan Rosario
-Armen Juhl
-Jonathan Mitchell
-Josh Goldwasser
+Dylan Rosario<br><br>
+Armen Juhl<br>
+Jonathan Mitchell<br>
+Josh Goldwasser<br>
 
 #Project <br>
 CryptoFy is a virtual reality platform for brokers and traders of cryptocurrency and stocks. The VR Interface allows traders 
