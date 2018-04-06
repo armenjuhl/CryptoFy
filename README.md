@@ -1,7 +1,6 @@
 # CryptoFy
   -2018 DeveloperWeek Hackathon 1st place prize winning app<br>
 A virtual reality platform for cryptocurrency brokers and traders <br>
-
 #Team <br>
 Dylan Rosario
 Armen Juhl
