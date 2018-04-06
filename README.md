@@ -1,7 +1,6 @@
 # CryptoFy
 A virtual reality platform for cryptocurrency brokers and traders <br>
-
-2018 DeveloperWeek Hackathon 1st place prize winning app<br>
+**2018 DeveloperWeek Hackathon 1st place prize winning app<br>
 
 #Team <br>
 Dylan Rosario
